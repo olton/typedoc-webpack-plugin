@@ -1,0 +1,36 @@
+{
+  "name": "@olton/typedoc-webpack-plugin",
+  "description": "This is a plugin for the Webpack5 (+) build system that will run Typedoc in order to generate API documentation.",
+  "version": "0.1.0",
+  "private": false,
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "serhii@pimenov.com.ua"
+    },
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/metroui"
+    }
+  ],
+  "license": "MIT",
+  "author": "Serhii Pimenov <serhii@pimenov.com.ua> (https://pimenov.com.ua)",
+  "keywords": [
+    "webpack",
+    "webpack5",
+    "typedoc",
+    "plugin",
+    "documentation"
+  ],
+  "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/olton/typedoc-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/olton/typedoc-webpack-plugin#readme",
+  "dependencies": {
+    "lodash.clone": "^4.5.0"
+  },
+  "peerDependencies": {
+    "typedoc": "^0.24.7"
+  }
+}
