@@ -2,6 +2,11 @@
 
 This is a plugin for the Webpack5 (+) build system that will run Typedoc in order to generate API documentation.
 
+[![npm version](https://img.shields.io/npm/v/@olton/typedoc-webpack-plugin.svg?color=brightgreen)](https://www.npmjs.com/package/@olton/typedoc-webpack-plugin)
+[![Downloads](https://img.shields.io/npm/dm/@olton/typedoc-webpack-plugin.svg)](https://www.npmjs.com/package/@olton/typedoc-webpack-plugin)
+
+<hr>
+
 ## Installation
 
 Run the following command inside your project directory to install:
